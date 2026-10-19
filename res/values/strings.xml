@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bilola Tunnel</string>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#1565C0</item>
+        <item name="android:navigationBarColor">#0D47A1</item>
+        <item name="android:statusBarColor">#0D47A1</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
